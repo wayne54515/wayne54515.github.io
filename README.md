@@ -6,4 +6,4 @@
 
 <!-- [![Resume Preview](https://startbootstrap.com/assets/img/screenshots/themes/resume.png)](https://blackrockdigital.github.io/startbootstrap-resume/) -->
 
-**[View Live Preview](http://htmlpreview.github.io/?https://github.com/wayne54515/wayne54515.github.io/blob/master/index.html)**
+**[View Live Preview](https://wayne54515.github.io/)**
